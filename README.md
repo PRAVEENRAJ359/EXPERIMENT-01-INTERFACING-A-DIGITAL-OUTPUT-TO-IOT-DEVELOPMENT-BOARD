@@ -101,11 +101,11 @@ int main(void)
 
 ## OUTPUT
 
-## ON
+## LED ON
 
 ![1 ON](https://github.com/user-attachments/assets/954f08d3-2ca9-4da3-a45e-c5600c074217)
 
-## OFF
+## LED OFF
 
 ![1 OFF](https://github.com/user-attachments/assets/38619cd2-a518-499b-9df5-5d36690feb8c)
 
